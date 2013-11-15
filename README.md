@@ -1,4 +1,4 @@
 snippets
 ========
 
-A random collection of code snippets
+A collection of random code snippets
